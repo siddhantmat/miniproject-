@@ -1,5 +1,5 @@
-torch==2.5.1
-torch-geometric==2.5.0
+torch
+torch-geometric
 numpy>=1.23,<2
 pandas
 networkx
