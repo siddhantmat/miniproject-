@@ -1,25 +1,10 @@
-# torch==2.5.1
-# torch-geometric==2.5.0
-# numpy>=1.23,<2
-# pandas
-# networkx
-# plotly
-# scikit-learn
-# streamlit
-
-
-torch
-torch-geometric
-pyg_lib
-torch_scatter
-torch_sparse
-torch_cluster
-torch_spline_conv
-
+torch==2.5.1
+torch-geometric==2.5.0
+numpy>=1.23,<2
 pandas
-numpy
+networkx
+plotly
 scikit-learn
-matplotlib
-streamlit>=1.32.0
-altair<5
-pyvis
+streamlit
+
+
